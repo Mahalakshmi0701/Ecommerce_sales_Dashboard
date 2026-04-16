@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,StockQuantity,Brand,Rating,Description
+101,Wireless Mouse,Electronics,599,150,Logitech,4.5,Wireless mouse
+102,Bluetooth Headphones,Electronics,1499,80,Boat,4.3,Headphones
+103,Running Shoes,Fashion,2499,60,Nike,4.6,Shoes
+104,Cotton T-Shirt,Fashion,499,200,Puma,4.2,Tshirt
+105,Smartphone,Electronics,15999,40,Samsung,4.7,Phone
+106,Backpack,Accessories,899,120,Wildcraft,4.4,Bag
+107,Water Bottle,Home,299,300,Milton,4.1,Bottle
+108,Laptop Stand,Accessories,799,75,Portronics,4.3,Stand
+109,Office Chair,Furniture,5999,25,GreenSoul,4.5,Chair
+110,LED Lamp,Home,699,90,Wipro,4.2,Lamp
